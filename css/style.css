@@ -1,0 +1,12 @@
+h1{
+    color:green;
+}
+#headerNavigation{
+    display: flex;
+    flex-direction:row;
+    justify-content: flex-end;
+}
+.banner{
+    background-color: burlywood;
+    height: 500px;
+}
